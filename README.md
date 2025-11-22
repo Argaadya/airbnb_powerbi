@@ -3,6 +3,7 @@
 This personal project is my way of challenging myself to deepen my Power BI skills, particularly in map visualizations and dashboard management using bookmarks.
 
 ## Preview
+An example snapshot of the dashboard can beviewed at [sample_report.pdf](https://github.com/Argaadya/airbnb_powerbi/blob/main/sample_report.pdf).
 
 <center><img src="asset/highlight.gif"></img></center>
 
