@@ -56,7 +56,7 @@ The dataset was acquired from [Inside Airbnb](https://insideairbnb.com/get-the-d
 
 ### Data Preprocessing
 
-The following are summary of processing the raw data into more proper format before entering the Power BI:
+The following are summary of processing the raw data into more proper format before entering the Power BI. The full script of the data preprocessing can be viewed on [data_cleansing.ipynb](https://github.com/Argaadya/airbnb_powerbi/blob/main/data_cleansing.ipynb)
 
 * listing
 
